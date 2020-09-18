@@ -1,0 +1,19 @@
+{
+  "name": "plastic-bag-warning",
+  "version": "1.0.1",
+  "description": "Gives you back an alert.",
+  "main": "plasticBag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriamm/plastic-bag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriamm/plastic-bag/issues"
+  },
+  "homepage": "https://github.com/yuriamm/plastic-bag#readme"
+}
